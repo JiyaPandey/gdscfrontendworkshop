@@ -13,7 +13,7 @@
   background-color: var(--color-primary);
 }
 body {
-  background-color: #ff8b66;
+  background-color: grey;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
